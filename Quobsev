@@ -1,6 +1,4 @@
 script_key = "CATiHYXlMJIsNtwSIahsNiPeIrRGHcDE"
-getgenv().Team = "Pirates"
-
 getgenv().WeaponsSetting = {
     ["Melee"] = {
         ["Enable"] = true,
